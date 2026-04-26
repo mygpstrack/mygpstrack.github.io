@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.mygpslive",
+      "sha256_cert_fingerprints": [
+        "AC:40:86:19:BC:DC:ED:32:C2:E6:4F:FA:43:C3:E7:A6:97:7B:50:2B:6E:CA:DE:64:AC:78:A3:5C:83:C1:8F:8C"
+      ]
+    }
+  }
+]
